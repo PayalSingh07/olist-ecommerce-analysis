@@ -72,26 +72,21 @@ The analysis covers:
 
 ## 📁 Project Structure
 
-olist-ecommerce-analysis/
-│
-├── notebooks/
-│   └── 01_data_exploration.ipynb    # Main analysis notebook
-│
-├── visuals/
-│   ├── monthly_revenue.png          # Revenue trend chart
-│   ├── top_categories.png           # Top 10 categories
-│   ├── delivery_time_by_state.png   # Delivery performance
-│   ├── delivery_vs_reviews.png      # Late delivery impact
-│   ├── orders_by_state.png          # Orders by state
-│   ├── customer_segments.png        # RFM segments
-│   ├── segment_value.png            # Segment average spend
-│   └── review_distribution.png     # Review scores
-│
-├── README.md
-├── .gitignore
-└── LICENSE
-
----
+    olist-ecommerce-analysis/
+    ├── notebooks/
+    │   └── 01_data_exploration.ipynb
+    ├── visuals/
+    │   ├── monthly_revenue.png
+    │   ├── top_categories.png
+    │   ├── delivery_time_by_state.png
+    │   ├── delivery_vs_reviews.png
+    │   ├── orders_by_state.png
+    │   ├── customer_segments.png
+    │   ├── segment_value.png
+    │   └── review_distribution.png
+    ├── README.md
+    ├── .gitignore
+    └── LICENSE
 
 ## 📊 Key Findings
 
